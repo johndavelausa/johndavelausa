@@ -1,15 +1,16 @@
-<img src="banner.png" alt="John Dave Banner" width="100%" />
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=joohnndaveee&label=Profile+Views&color=0891b2&style=flat-square" alt="profile views" />
-  <h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="35px" width="35px" /> I'm John Dave</h1>
+  <h1>Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="35px" width="35px" />, Welcome!</h1>
 
 </div>
+<img src="banner.png" alt="John Dave Banner" width="100%"/>
 
 
+<br>
 
 
-### 🛠️ Tech Stack
+### Tools
 
 
 <div align="center">
@@ -42,18 +43,16 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img height="196m" src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" />
-    </td>
-    <td>
-      <img height="180em" src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/main/johndave.gif" alt="animated gif" />
-    </td>
-  </tr>
-</table>
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/main/johndave.gif" height="180" alt="John Dave Coding" />
+</p>
 <!-- 
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=joohnndaveee&theme=cobalt&no-frame=true&no-bg=true&margin-w=4" />
