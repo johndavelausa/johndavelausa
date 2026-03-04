@@ -41,18 +41,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
 </div>
 
----
 
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" />
 </p>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/main/johndave.gif" height="180" alt="John Dave Coding" />
 </p>
+
+
 <!-- 
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=joohnndaveee&theme=cobalt&no-frame=true&no-bg=true&margin-w=4" />
@@ -66,5 +67,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
