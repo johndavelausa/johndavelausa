@@ -56,8 +56,4 @@
   <img src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/main/johndave.gif" height="180" alt="John Dave Coding" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/output/pacman-contribution-graph.svg">
-</picture>
+
