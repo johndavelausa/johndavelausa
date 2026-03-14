@@ -49,11 +49,11 @@
 <div align="center"><img src="images/logo/githubStats.gif" height="60" align="middle" />&nbsp;&nbsp;<b>GitHub Stats</b></div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joohnndaveee&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=johndavelausa&theme=cobalt&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joohnndaveee/joohnndaveee/main/johndave.gif" height="180" alt="John Dave Coding" />
+  <img src="https://raw.githubusercontent.com/johndavelausa/johndavelausa/main/johndave.gif" height="180" alt="John Dave Coding" />
 </p>
 
 
