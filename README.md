@@ -6,7 +6,6 @@
   <h1>Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="32px" width="32px" />, I'm John Dave</h1>
 </div>
 
-<img src="banner.png" alt="John Dave Banner" width="100%"/>
 
 
 ---
